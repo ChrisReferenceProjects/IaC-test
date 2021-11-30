@@ -1,0 +1,549 @@
+{
+  "hotspots": [
+    {
+      "filePath": "aws/alb/AWS004_http-not-used/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/alb/AWS005_alb-not-public/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/AWS025_use-secure-tls-polic/bad.tf",
+      "line": 3,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/AWS025_use-secure-tls-polic/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/AWS025_use-secure-tls-polic/bad.tf",
+      "line": 10,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/AWS061_enable-access-logging/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/AWS061_enable-access-logging/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/enable-cache-encryption/bad.tf",
+      "line": 9,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/enable-tracing/bad.tf",
+      "line": 5,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/apigateway/no-public-access/bad.tf",
+      "line": 5,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/athena/AWS059_enable-at-rest-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/athena/AWS059_enable-at-rest-encryption/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/athena/AWS060_no-encryption-override/bad.tf",
+      "line": 6,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/athena/AWS060_no-encryption-override/bad.tf",
+      "line": 21,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS012_no-public-ip/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS012_no-public-ip/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS014_enable-at-rest-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS014_enable-at-rest-encryption/bad.tf",
+      "line": 7,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS014_enable-at-rest-encryption/bad.tf",
+      "line": 16,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS014_enable-at-rest-encryption/bad.tf",
+      "line": 21,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS014_enable-at-rest-encryption/bad.tf",
+      "line": 31,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/autoscaling/AWS014_enable-at-rest-encryption/bad.tf",
+      "line": 44,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/cloudfront/AWS021_use-secure-tls-policy/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/cloudfront/AWS021_use-secure-tls-policy/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/cloudfront/AWS021_use-secure-tls-policy/bad.tf",
+      "line": 17,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/cloudfront/AWS021_use-secure-tls-policy/bad.tf",
+      "line": 24,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/cloudtrail/AWS065_enable-at-rest-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/cloudtrail/AWS065_enable-at-rest-encryption/bad.tf",
+      "line": 21,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/documentdb/enable-storage-encryption/bad.tf",
+      "line": 10,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/dynamodb/AWS081_enable-at-rest-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/dynamodb/AWS081_enable-at-rest-encryption/bad.tf",
+      "line": 10,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/dynamodb/AWS081_enable-at-rest-encryption/bad.tf",
+      "line": 20,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/ebs/enable-volume-encryption/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6275"
+    },
+    {
+      "filePath": "aws/ebs/enable-volume-encryption/bad.tf",
+      "line": 12,
+      "ruleKey": "terraform:S6275"
+    },
+    {
+      "filePath": "aws/ebs/encryption-customer-key/bad.tf",
+      "line": 1,
+      "ruleKey": "erraform:S6275"
+    },
+    {
+      "filePath": "aws/ecs/AWS096_enable-in-transit-encryption/bad.tf",
+      "line": 9,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/ecs/AWS096_enable-in-transit-encryption/bad.tf",
+      "line": 31,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/efs/AWS048_enable-at-rest-encryption/bad.tf",
+      "line": 4,
+      "ruleKey": "terraform:S6332"
+    },
+    {
+      "filePath": "aws/elasticache/AWS036_enable-in-transit-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS032_enable-in-transit-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS032_enable-in-transit-encryption/bad.tf",
+      "line": 11,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS033_enforce-https/bad.tf",
+      "line": 11,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS034_use-secure-tls-policy/bad.tf",
+      "line": 5,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS034_use-secure-tls-policy/bad.tf",
+      "line": 14,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS035_encrypt-replication-group/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticsearch/AWS035_encrypt-replication-group/bad.tf",
+      "line": 12,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticservice/AWS031_enable-domain-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elasticservice/AWS031_enable-domain-encryption/bad.tf",
+      "line": 10,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elbv2/AWS004_http-not-used/bad.tf",
+      "line": 3,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elbv2/AWS004_http-not-used/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elbv2/AWS004_http-not-used/bad.tf",
+      "line": 12,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/elbv2/AWS004_http-not-used/bad.tf",
+      "line": 20,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/kinesis/AWS024_enable-in-transit-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/kinesis/AWS024_enable-in-transit-encryption/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/kinesis/AWS024_enable-in-transit-encryption/bad.tf",
+      "line": 13,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/kinesis/AWS024_enable-in-transit-encryption/bad.tf",
+      "line": 13,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/msk/AWS022_enable-in-transit-encryption/bad.tf",
+      "line": 4,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/msk/AWS022_enable-in-transit-encryption/bad.tf",
+      "line": 14,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/msk/AWS022_enable-in-transit-encryption/bad.tf",
+      "line": 22,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/msk/AWS022_enable-in-transit-encryption/bad.tf",
+      "line": 31,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/msk/AWS022_enable-in-transit-encryption/bad.tf",
+      "line": 39,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS011_no-public-db-access/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS011_no-public-db-access/bad.tf",
+      "line": 6,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS011_no-public-db-access/bad.tf",
+      "line": 10,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS011_no-public-db-access/bad.tf",
+      "line": 14,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS011_no-public-db-access/bad.tf",
+      "line": 18,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/bad.tf",
+      "line": 7,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/bad.tf",
+      "line": 13,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/bad.tf",
+      "line": 21,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS052_encrypt-instance-storage-data/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS052_encrypt-instance-storage-data/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS052_encrypt-instance-storage-data/bad.tf",
+      "line": 12,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS091_backup-retention-specified/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS091_backup-retention-specified/bad.tf",
+      "line": 15,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS091_backup-retention-specified/bad.tf",
+      "line": 27,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS091_backup-retention-specified/bad.tf",
+      "line": 41,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS091_backup-retention-specified/bad.tf",
+      "line": 53,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/rds/AWS091_backup-retention-specified/bad.tf",
+      "line": 65,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/s3/AWS001_no-public-access-with-acl/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/s3/AWS001_no-public-access-with-acl/bad.tf",
+      "line": 6,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/s3/AWS001_no-public-access-with-acl/bad.tf",
+      "line": 13,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/s3/AWS001_no-public-access-with-acl/bad.tf",
+      "line": 18,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/s3/AWS002_enable-bucket-logging/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6258"
+    },
+    {
+      "filePath": "aws/s3/AWS017_enable-bucket-encryption/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6245"
+    },
+    {
+      "filePath": "aws/s3/AWS073_ignore-public-acls/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS073_ignore-public-acls/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS074_block-public-acls/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS074_block-public-acls/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS075_no-public-buckets/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6265"
+    },
+    {
+      "filePath": "aws/s3/AWS075_no-public-buckets/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6265"
+    },
+    {
+      "filePath": "aws/s3/AWS076_block-public-policy/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS076_block-public-policy/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS077_enable-versioning/bad.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6252"
+    },
+    {
+      "filePath": "aws/s3/AWS098_specify-public-access-block/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS098_specify-public-access-block/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/sns/AWS016_enable-topic-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:S6327"
+    },
+    {
+      "filePath": "aws/sns/AWS016_enable-topic-encryption/bad.tf",
+      "line": 7,
+      "ruleKey": "terraform:S6327"
+    },
+    {
+      "filePath": "aws/sns/AWS016_enable-topic-encryption/bad.tf",
+      "line": 16,
+      "ruleKey": "terraform:S6327"
+    },
+    {
+      "filePath": "aws/sqs/AWS015_enable-queue-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:S6330"
+    },
+    {
+      "filePath": "aws/sqs/AWS015_enable-queue-encryption/bad.tf",
+      "line": 7,
+      "ruleKey": "terraform:S6330"
+    },
+    {
+      "filePath": "aws/sqs/AWS047_no-wildcards-in-policy-documents/bad.tf",
+      "line": 7,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/sqs/AWS047_no-wildcards-in-policy-documents/bad.tf",
+      "line": 25,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/workspace/AWS084_enable-disk-encryption/bad.tf",
+      "line": 2,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/workspace/AWS084_enable-disk-encryption/bad.tf",
+      "line": 17,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/workspace/AWS084_enable-disk-encryption/bad.tf",
+      "line": 35,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/workspace/AWS084_enable-disk-encryption/bad.tf",
+      "line": 57,
+      "ruleKey": "terraform:Sxxx"
+    },
+    {
+      "filePath": "aws/ebs/enable-volume-encryption/bad.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6275"
+    },
+    {
+      "filePath": "aws/ebs/enable-volume-encryption/bad.tf",
+      "line": 12,
+      "ruleKey": "terraform:S6275"
+    }
+  ]
+}

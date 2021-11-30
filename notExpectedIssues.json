@@ -1,0 +1,119 @@
+{
+  "hotspots": [
+    {
+      "filePath": "aws/s3/AWS001_no-public-access-with-acl/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6265"
+    },
+    {
+      "filePath": "aws/s3/AWS001_no-public-access-with-acl/good.tf",
+      "line": 5,
+      "ruleKey": "terraform:S6265"
+    },
+    {
+      "filePath": "aws/s3/AWS002_enable-bucket-logging/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6258"
+    },
+    {
+      "filePath": "aws/s3/AWS002_enable-bucket-logging/good.tf",
+      "line": 7,
+      "ruleKey": "terraform:S6258"
+    },
+    {
+      "filePath": "aws/s3/AWS017_enable-bucket-encryption/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6245"
+    },
+    {
+      "filePath": "aws/s3/AWS017_enable-bucket-encryption/good.tf",
+      "line": 48,
+      "ruleKey": "terraform:S6245"
+    },
+    {
+      "filePath": "aws/s3/AWS073_ignore-public-acls/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS074_block-public-acls/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS075_no-public-buckets/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS076_block-public-policy/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/s3/AWS077_enable-versioning/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6252"
+    },
+    {
+      "filePath": "aws/s3/AWS098_specify-public-access-block/good.tf",
+      "line": 1,
+      "ruleKey": "terraform:S6281"
+    },
+    {
+      "filePath": "aws/ebs/enable-volume-encryption/good.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6275"
+    },
+    {
+      "filePath": "aws/ebs/encryption-customer-key/good.tf",
+      "line": 9,
+      "ruleKey": "terraform:S6275"
+    },
+    {
+      "filePath": "aws/efs/AWS048_enable-at-rest-encryption/good.tf",
+      "line": 4,
+      "ruleKey": "erraform:S6332"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/good.tf",
+      "line": 5,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/good.tf",
+      "line": 11,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS051_encrypt-cluster-storage-data/good.tf",
+      "line": 20,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS052_encrypt-instance-storage-data/good.tf",
+      "line": 3,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/rds/AWS052_encrypt-instance-storage-data/good.tf",
+      "line": 9,
+      "ruleKey": "terraform:S6303"
+    },
+    {
+      "filePath": "aws/sns/AWS016_enable-topic-encryption/good.tf",
+      "line": 3,
+      "ruleKey": "terraform:S6327"
+    },
+    {
+      "filePath": "aws/sqs/AWS015_enable-queue-encryption/good.tf",
+      "line": 3,
+      "ruleKey": "terraform:S6330"
+    },
+    {
+      "filePath": "aws/ebs/enable-volume-encryption/good.tf",
+      "line": 8,
+      "ruleKey": "terraform:S6275"
+    }
+  ]
+}
